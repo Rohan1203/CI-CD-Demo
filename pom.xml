@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>restApi</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restDemo-1</name>
 	<description>Demo project for Spring Boot</description>
